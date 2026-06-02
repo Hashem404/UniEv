@@ -102,9 +102,9 @@ See `HOW_TO_RUN.md` for the complete installation guide.
 
 ---
 
-## 🌐 Live Link
+## 🌐 Live Project
 
-[Visit UniEv]([https://uniev.onrender.com])
+[Visit UniEv Repository](https://github.com/Hashem404/UniEv)
 ---
 
 ## 👥 Team
