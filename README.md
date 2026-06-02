@@ -102,7 +102,7 @@ See `HOW_TO_RUN.md` for the complete installation guide.
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Demo
 
 Add your presentation video link here.
 
