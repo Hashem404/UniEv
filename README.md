@@ -103,13 +103,8 @@ See `HOW_TO_RUN.md` for the complete installation guide.
 ---
 
 ## 🎥 Demo
-
-Add your presentation video link here.
-
-Example:
-
 ```md
-[Watch Demo Video](https://youtube.com/your-video)
+[https://uniev.onrender.com]
 ```
 
 ---
