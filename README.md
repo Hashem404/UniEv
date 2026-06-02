@@ -139,8 +139,8 @@ This project was developed for academic and educational purposes.
 
 ### ŞARJÖR Team
 
-- Hashem Salem
 - Kusai Aksoy
+- Hashem Salem
 - Namiq
 - Rama Hasanatu
 - Melih
