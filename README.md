@@ -82,41 +82,6 @@ UniEv/
 ---
 
 
-
-```bash
-venv\Scripts\activate
-```
-
-### 3️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4️⃣ Configure Environment Variables
-
-```bash
-copy .env.example .env
-```
-
-Then edit `.env` file.
-
-### 5️⃣ Run The Server
-
-```bash
-python -m uvicorn main:app --reload
-```
-
----
-
-## 🌐 Access The Application
-
-| Service | URL |
-|---|---|
-| Main Website | http://localhost:8000 |
-
----
-
 ---
 
 ## 📸 Screenshots
