@@ -105,13 +105,6 @@ See `HOW_TO_RUN.md` for the complete installation guide.
 ## 🌐 Live Demo
 
 [![Open UniEv](https://img.shields.io/badge/Open-UniEv-00C2A8?style=for-the-badge)](https://uniev.onrender.com)
----
-
-## 👥 Team
-
-### ŞARJÖR Team
-
-- Hashem Salem
 
 ---
 
@@ -139,6 +132,18 @@ See `HOW_TO_RUN.md` for the complete installation guide.
 ## 📄 License
 
 This project was developed for academic and educational purposes.
+
+---
+
+## 👥 Team
+
+### ŞARJÖR Team
+
+- Hashem Salem
+- Kusai Aksoy
+- Namiq
+- Rama Hasanatu
+- Melih
 
 ---
 
