@@ -3,6 +3,7 @@
 ### Evinde Üniversite Hayatı
 
 ![UniEv Logo](Logo.png)
+
 ![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688.svg)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-003B57.svg)
