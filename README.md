@@ -81,22 +81,7 @@ UniEv/
 
 ---
 
-## ⚙️ Installation & Setup
 
-### 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/Hashem404/UniEv.git
-cd UniEv
-```
-
-### 2️⃣ Create Virtual Environment
-
-```bash
-python -m venv venv
-```
-
-Activate it:
 
 ```bash
 venv\Scripts\activate
@@ -129,24 +114,8 @@ python -m uvicorn main:app --reload
 | Service | URL |
 |---|---|
 | Main Website | http://localhost:8000 |
-| Swagger Docs | http://localhost:8000/docs |
-| ReDoc Docs | http://localhost:8000/redoc |
 
 ---
-
-## 👨‍💼 Create Admin Account
-
-```bash
-python create_admin.py
-```
-
----
-
-## 🧪 Create Test Data
-
-```bash
-python create_test_data.py
-```
 
 ---
 
