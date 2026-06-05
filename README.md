@@ -206,10 +206,6 @@ This project was developed for academic and educational purposes.
 
 ---
 
-Or directly open the video here:
-
-https://youtu.be/BJKZr4FfNJQ
-
 
 # ⭐ Support
 
