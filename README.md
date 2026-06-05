@@ -68,18 +68,7 @@ The platform provides:
 
 ## 🌐 Live Demo
 
-[![Open UniEv](https://img.shields.io/badge/Open-UniEv-00C2A8?style=for-the-badge)](https://uniev.onrender.com)
-
----
-
-## ⚡ Quick Start
-
-```bash id="m50ov7"
-git clone https://github.com/Hashem404/UniEv.git
-cd UniEv
-pip install -r requirements.txt
-uvicorn main:app --reload
-```
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-UniEv-00C2A8?style=for-the-badge&logo=render&logoColor=white)](https://uniev.onrender.com)
 
 ---
 
