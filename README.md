@@ -93,7 +93,7 @@ UniEv/
 Add your screenshots here.
 
 ```md
-![Home](screenshots/home.png)
+![Home](screenshots/home.jpeg)
 ![Dashboard](screenshots/dashboard.png)
 ![Listings](screenshots/listings.png)
 ```
