@@ -150,31 +150,21 @@ uvicorn main:app --reload
 
 ## 📸 Screenshots
 
-### 📊 Dashboard
-
 <img src="screenshots/dashboard.png" width="850">
 
 ---
-
-### 🌐 Landing Page
 
 <img src="screenshots/ilan.png" width="850">
 
 ---
 
-### 🔐 Login Page
-
 <img src="screenshots/login.png" width="850">
 
 ---
 
-### 📝 Sign In Page
-
 <img src="screenshots/signin.png" width="850">
 
 ---
-
-### 🆘 Help & Support Page
 
 <img src="screenshots/yardim.png" width="850">
 
