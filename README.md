@@ -1,134 +1,190 @@
-# UniEv 🎓
-
-### Evinde Üniversite Hayatı
+# 🎓 UniEv — Student Housing & Roommate Platform
 
 ![UniEv Logo](Logo.png)
 
 ![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688.svg)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-003B57.svg)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-Realtime-black.svg)
+![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 ![License](https://img.shields.io/badge/License-Educational%20Use-green.svg)
+
 > A modern student housing & roommate matching platform designed to simplify university life by helping students find accommodation, roommates, and communicate safely in one integrated system.
 
 ---
 
-## 📌 About The Project
+## 🌟 About The Project
 
-UniEv is a full-stack university housing platform developed to help students:
+UniEv is a full-stack university housing platform developed to help students find safe housing and suitable roommates through a modern and user-friendly system.
 
-- Find trusted rental listings
-- Match with compatible roommates
-- Chat in real-time
-- Manage favorites and profiles
-- Access safety and fraud prevention tools
+The platform provides:
 
-The platform also includes an advanced admin panel for monitoring users, reports, listings, and platform activity.
+* Trusted rental listings
+* Smart roommate matching
+* Real-time messaging system
+* Favorites & profile management
+* Fraud detection tools
+* Interactive safety features
+* Responsive user interface
+* Powerful admin dashboard
+
+---
+
+## 🚀 Main Features
+
+* 🔐 Authentication & Authorization
+* 🏠 Property Listings System
+* ❤️ Favorites System
+* 💬 Real-Time Messaging (Socket.IO)
+* 🤝 Smart Roommate Match Engine
+* 🛡️ Fraud Detection & Safety Map
+* 👤 Profile Management
+* 📸 Image Upload Support
+* 📊 Advanced Admin Dashboard
+* 📧 Email Verification System
+* 🔔 Notifications System
+* 📱 Responsive UI
+* ⚡ FastAPI Backend Performance
+* 🌍 Multi-User Platform
+
+---
+
+## 🛠️ Technologies Used
+
+| Category               | Technologies            |
+| ---------------------- | ----------------------- |
+| Backend Framework      | FastAPI                 |
+| Programming Language   | Python 3.12+            |
+| Database               | SQLite / PostgreSQL     |
+| ORM                    | SQLAlchemy              |
+| Authentication         | JWT Authentication      |
+| Realtime Communication | Socket.IO               |
+| Frontend               | HTML5, CSS3, JavaScript |
+| Server                 | Uvicorn                 |
+| Version Control        | Git & GitHub            |
+| Development Tools      | VS Code                 |
 
 ---
 
 ## 🌐 Live Demo
 
 [![Open UniEv](https://img.shields.io/badge/Open-UniEv-00C2A8?style=for-the-badge)](https://uniev.onrender.com)
----
-
-## 🚀 Main Features
-
-- 🔐 Authentication & Authorization
-- 🏠 Property Listings System
-- ❤️ Favorites System
-- 💬 Real-Time Messaging (Socket.IO)
-- 🤝 Roommate Match Engine
-- 🛡️ Fraud Detection & Safety Map
-- 👤 Profile Management
-- 📸 Image Upload Support
-- 📊 Admin Dashboard
-- 📧 Email Verification System
-- 🔔 Notifications System
-- 📱 Responsive UI
 
 ---
 
-## 🛠️ Technologies Used
+## ⚡ Quick Start
 
-### Backend
-- Python 3.12+
-- FastAPI
-- SQLAlchemy
-- SQLite / PostgreSQL
-- Socket.IO
-- JWT Authentication
-
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-
-### Tools
-- Uvicorn
-- Git & GitHub
-- VS Code
+```bash id="d6u1kz"
+git clone https://github.com/Hashem404/UniEv.git
+cd UniEv
+pip install -r requirements.txt
+uvicorn main:app --reload
+```
 
 ---
 
 ## 📂 Project Structure
 
-```text
-UniEv/
+```text id="vnh4u9"
+📁 UniEv
 │
-├── core/
-├── templates/
-├── static/
-├── uploads/
-├── database.py
-├── main.py
-├── create_admin.py
-├── create_test_data.py
-├── requirements.txt
-├── .env.example
-└── HOW_TO_RUN.md
+├── 📁 core
+├── 📁 templates
+├── 📁 static
+├── 📁 uploads
+├── 📁 screenshots
+│   ├── 🖼️ home.jpeg
+│   └── 🖼️ dashboard.jpeg
+│
+├── 📄 database.py
+├── 📄 main.py
+├── 📄 create_admin.py
+├── 📄 create_test_data.py
+├── 📄 requirements.txt
+├── 📄 .env.example
+└── 📄 HOW_TO_RUN.md
 ```
 
 ---
 
+## 🔐 Demo Accounts
+
+| Role    | Email                                         | Password |
+| ------- | --------------------------------------------- | -------- |
+| Admin   | [admin@uniev.com](mailto:admin@uniev.com)     | admin123 |
+| Student | [student@uniev.com](mailto:student@uniev.com) | 123456   |
+
+---
+
+## 🎯 Platform Modules
+
+### 🏠 Property Listings
+
+* Create and manage rental listings
+* Upload property images
+* View detailed property information
+
+### 🤝 Roommate Matching
+
+* Match students based on preferences
+* Compatibility-focused recommendations
+* Safe communication system
+
+### 💬 Messaging System
+
+* Real-time private messaging
+* Instant communication using Socket.IO
+* Notification support
+
+### 📊 Admin Dashboard
+
+* User monitoring
+* Listing moderation
+* Report management
+* Platform analytics
 
 ---
 
 ## 📸 Screenshots
 
-Add your screenshots here.
+### 🏠 Home Page
 
-```md
-![Home](screenshots/home.jpeg)
-![Dashboard](screenshots/dashboard.png)
-![Listings](screenshots/listings.png)
-```
+<img src="screenshots/home.jpeg" width="850">
+
+---
+
+### 📊 Dashboard
+
+<img src="screenshots/dashboard.jpeg" width="850">
+
+---
+
+## 🔒 Security Features
+
+* Password Hashing
+* JWT Authentication
+* Fraud Score Detection
+* Login Protection
+* Role-Based Access Control
+* Email Verification
+* Secure Session Management
+
+---
+
+## 📈 Future Improvements
+
+* 📱 Mobile Application
+* 🤖 AI Roommate Recommendation
+* 💳 Payment Integration
+* 🗺️ Google Maps Integration
+* 🌍 Multi-Language Support
+* ☁️ Cloud Deployment Optimization
 
 ---
 
 ## 📖 Full Setup Guide
 
 See `HOW_TO_RUN.md` for the complete installation guide.
-
----
-
-## 🔒 Security Features
-
-- Password Hashing
-- JWT Authentication
-- Fraud Score Detection
-- Login Protection
-- Role-Based Access Control
-- Email Verification
-
----
-
-## 📈 Future Improvements
-
-- Mobile Application
-- AI Roommate Recommendation
-- Payment Integration
-- Google Maps Integration
-- Multi-Language Support
 
 ---
 
@@ -142,14 +198,14 @@ This project was developed for academic and educational purposes.
 
 ### ŞARJÖR Team
 
-- Kusai Aksoy
-- Hashem Salem
-- Namiq
-- Rama Hasanatu
-- Melih
+* Kusai Aksoy
+* Hashem Salem
+* Namiq
+* Rama Hasanatu
+* Melih
 
 ---
 
 # ⭐ Support
 
-If you like this project, consider giving it a star on GitHub.
+If you like this project, consider giving it a ⭐ on GitHub.
