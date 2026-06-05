@@ -12,6 +12,12 @@
 
 ---
 
+## 🌐 Live Demo
+
+[![Open UniEv](https://img.shields.io/badge/Open-UniEv-00C2A8?style=for-the-badge)](https://uniev.onrender.com)
+
+---
+
 ## 📌 About The Project
 
 UniEv is a full-stack university housing platform developed to help students:
@@ -103,12 +109,6 @@ Add your screenshots here.
 ## 📖 Full Setup Guide
 
 See `HOW_TO_RUN.md` for the complete installation guide.
-
----
-
-## 🌐 Live Demo
-
-[![Open UniEv](https://img.shields.io/badge/Open-UniEv-00C2A8?style=for-the-badge)](https://uniev.onrender.com)
 
 ---
 
