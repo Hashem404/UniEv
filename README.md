@@ -193,12 +193,6 @@ uvicorn main:app --reload
 
 ---
 
-## 📖 Full Setup Guide
-
-See `HOW_TO_RUN.md` for the complete installation guide.
-
----
-
 ## 📄 License
 
 This project was developed for academic and educational purposes.
@@ -219,4 +213,4 @@ This project was developed for academic and educational purposes.
 
 # ⭐ Support
 
-If you like this project, consider giving it a ⭐ on GitHub.
+If you like this project, consider giving it a star on GitHub.
