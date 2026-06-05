@@ -200,6 +200,17 @@ This project was developed for academic and educational purposes.
 
 ---
 
+## 🎥 Project Demo Video
+
+[![Watch Demo](https://img.shields.io/badge/▶️_Watch_Project_Demo-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtu.be/BJKZr4FfNJQ)
+
+---
+
+Or directly open the video here:
+
+https://youtu.be/BJKZr4FfNJQ
+
+
 # ⭐ Support
 
 If you like this project, consider giving it a star on GitHub.
