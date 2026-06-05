@@ -74,7 +74,7 @@ The platform provides:
 
 ## ⚡ Quick Start
 
-```bash id="d6u1kz"
+```bash id="m50ov7"
 git clone https://github.com/Hashem404/UniEv.git
 cd UniEv
 pip install -r requirements.txt
@@ -85,24 +85,27 @@ uvicorn main:app --reload
 
 ## 📂 Project Structure
 
-```text id="vnh4u9"
-📁 UniEv
+```text id="ywj8i5"
+📁 core
+📁 templates
+📁 static
+📁 uploads
+📁 screenshots
 │
-├── 📁 core
-├── 📁 templates
-├── 📁 static
-├── 📁 uploads
-├── 📁 screenshots
-│   ├── 🖼️ home.jpeg
-│   └── 🖼️ dashboard.jpeg
-│
-├── 📄 database.py
-├── 📄 main.py
-├── 📄 create_admin.py
-├── 📄 create_test_data.py
-├── 📄 requirements.txt
-├── 📄 .env.example
-└── 📄 HOW_TO_RUN.md
+├── 🖼️ dashboard.png
+├── 🖼️ ilan.png
+├── 🖼️ login.png
+├── 🖼️ signin.png
+└── 🖼️ yardim.png
+
+📄 database.py
+📄 main.py
+📄 create_admin.py
+📄 create_test_data.py
+📄 requirements.txt
+📄 .env.example
+📄 HOW_TO_RUN.md
+📄 README.md
 ```
 
 ---
@@ -147,15 +150,33 @@ uvicorn main:app --reload
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
+### 📊 Dashboard
 
-<img src="screenshots/home.jpeg" width="850">
+<img src="screenshots/dashboard.png" width="850">
 
 ---
 
-### 📊 Dashboard
+### 🌐 Landing Page
 
-<img src="screenshots/dashboard.jpeg" width="850">
+<img src="screenshots/ilan.png" width="850">
+
+---
+
+### 🔐 Login Page
+
+<img src="screenshots/login.png" width="850">
+
+---
+
+### 📝 Sign In Page
+
+<img src="screenshots/signin.png" width="850">
+
+---
+
+### 🆘 Help & Support Page
+
+<img src="screenshots/yardim.png" width="850">
 
 ---
 
